@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lexicsquare-visual-scoring.iml" filepath="$PROJECT_DIR$/lexicsquare-visual-scoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LexicSquareVisualScoring.iml" filepath="$PROJECT_DIR$/LexicSquareVisualScoring.iml" />
     </modules>
   </component>
 </project>
